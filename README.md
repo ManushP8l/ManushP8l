@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ManushP8l
-- 👀 I’m interested in Electronics,Embedded systems and IoT
+- 👀 I’m interested in Power Electronics, Power Systems, Microgrids, Electronics,Embedded systems and IoT
 - 🌱 I’m currently pursuig B.tech in Electrical and Electronics Engineeing
 - 💞️ I’m looking to collaborate on projects related to this field
 - 📫 Mail me at - manush2004.offical@gmail.com
